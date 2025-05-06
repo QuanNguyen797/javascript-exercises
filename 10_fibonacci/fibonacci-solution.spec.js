@@ -1,4 +1,4 @@
-const fibonacci = require('./fibonacci-solution')
+const fibonacci = require('./solution/fibonacci-solution')
 
 describe('fibonacci', () => {
   test('4th fibonacci number is 3', () => {
